@@ -1,4 +1,4 @@
-Mo Simulator is an Frc 2024 game. 
+Mo Simulator is an FRC 2024 game. 
 
 Featuring 4 new robots added to the base game
 
